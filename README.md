@@ -1,10 +1,11 @@
-### Hi, i am [Nixon Torres][website] 
+### HI, I AM [Nixon Torres][website] 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thenixontorres?label=Follow)](https://twitter.com/thenixontorres)
 
 [<img width="100%;" src="https://pbs.twimg.com/profile_banners/70216574/1596237937/600x200"/>][website]
 
-### 💻 Web Developer 🌱Father and Vegan
+### Project Manager & Software Developer.
+#### I do cool stuff for the internet.
 
 - 🔭 I’m currently working on a [Courses or YT][website]
 - 🌱 I’m currently learning more about web dev
