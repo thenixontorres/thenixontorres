@@ -5,14 +5,11 @@
 [<img width="100%;" src="https://pbs.twimg.com/profile_banners/70216574/1596237937/600x200"/>][website]
 
 ## Project Manager & Software Developer.
-### I do cool stuff for the internet.
 
-- 🔭 I’m currently working on a [Courses or YT][website]
-- 🌱 I’m currently learning more about web dev
-- 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
+-   I do cool stuff for the internet.
+-   I specialize in backend development.
+-   You can see my full portfolio on my [Website][portfolio].
+-   You can also find me on [Instagram][instagram] and [Twitter][twitter].
 
 ---
 
@@ -41,3 +38,7 @@
 <!-- LINKS -->
 
 [website]: https://nixontorres.com/
+[portfolio]: https://nixontorres.com#work/
+[contatc]: https://nixontorres.com#contact/
+[instagram]: https://www.instagram.com/thenixontorres/
+[twitter]: https://twitter.com/thenixontorres/
