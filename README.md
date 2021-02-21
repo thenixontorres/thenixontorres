@@ -13,6 +13,10 @@
 
 ---
 
+## CONTACT.
+
+- Got a project you would like me to work on? or how about just a friendly chat? give me an [email][contact] and we can grab a brew.
+
 ## 🚀 Technologies
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -39,6 +43,6 @@
 
 [website]: https://nixontorres.com/
 [portfolio]: https://nixontorres.com#work/
-[contatc]: https://nixontorres.com#contact/
+[contact]: https://nixontorres.com#contact/
 [instagram]: https://www.instagram.com/thenixontorres/
 [twitter]: https://twitter.com/thenixontorres/
