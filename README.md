@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thenixontorres?label=Follow)](https://twitter.com/thenixontorres)
 
-[<img src="https://pbs.twimg.com/profile_banners/70216574/1596237937/600x200"/>][website]
+[<img width="100%;" src="https://pbs.twimg.com/profile_banners/70216574/1596237937/600x200"/>][website]
 
 ### 💻 Web Developer 🌱Father and Vegan
 
