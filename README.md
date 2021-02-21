@@ -1,11 +1,11 @@
-### HI, I AM [Nixon Torres][website] 
+# HI, I AM [Nixon Torres][website] 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thenixontorres?label=Follow)](https://twitter.com/thenixontorres)
 
 [<img width="100%;" src="https://pbs.twimg.com/profile_banners/70216574/1596237937/600x200"/>][website]
 
-### Project Manager & Software Developer.
-#### I do cool stuff for the internet.
+## Project Manager & Software Developer.
+### I do cool stuff for the internet.
 
 - 🔭 I’m currently working on a [Courses or YT][website]
 - 🌱 I’m currently learning more about web dev
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Coding
+## 🚀 Technologies
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 
